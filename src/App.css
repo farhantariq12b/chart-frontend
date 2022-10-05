@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  flex-direction: row;
+}
+h1 {
+  text-align: center;
+}
+.chart {
+  margin: 50px;
+}
+
